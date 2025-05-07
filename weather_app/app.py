@@ -33,8 +33,8 @@ CROP_DATA = {
 }
 
 # --- Streamlit App ---
-st.set_page_config(page_title="Farmer's Weather Dashboard - Plovdiv", layout="wide")
-st.title("🌾 Farmer's Weather Dashboard for Plovdiv")
+st.set_page_config(page_title="Farmer's Weather Dashboard", layout="wide")
+st.title("🌾 Farmer's Weather Dashboard")
 st.markdown("Weekly weather insights for agricultural planning.")
 
 # API Key Configuration
