@@ -6,3 +6,17 @@
 
 # .streamlit
 .streamlit
+
+# Ignore Streamlit secrets
+weather_app/.streamlit/secrets.toml
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
